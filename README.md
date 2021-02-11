@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-* [General Info] (#general-info)
-* [Languages] (#languages)
+* [General Info](#general-info)
+* [Languages](#languages)
 
 ## General Info
 
