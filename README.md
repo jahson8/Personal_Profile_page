@@ -7,7 +7,7 @@
 
 ## General Info
 
-This the first project in the Team Treehouse Front-End Web Developer Tech Degree. It is simple responsive HTML web pages.
+This the first project in the Team Treehouse Front-End Web Developer Tech Degree. It is simple responsive HTML Profile pages.
 
 ## Languages
 
