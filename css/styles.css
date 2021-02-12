@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/skyline.jpg') no-repeat center ;
+  background: url('../images/skyline.jpg') no-repeat center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -167,19 +167,49 @@ a.social {
   transition: all .5s;
 }
 a.twitter {
-  background-image: url(images/twitter.svg);
+  background-image: url(../images/twitter.svg);
 }
 a.linkedin {
-  background-image: url(images/linkedin.svg);
+  background-image: url(../images/linkedin.svg);
 }
 a.github {
-  background-image: url(images/github.svg);
+  background-image: url(../images/github.svg);
 }
 a.social:hover {
   opacity: 1;
 }
 .clearfix {
   clear: both;
+}
+
+/* My Styles */
+
+.laptop{
+  max-width: 100%;
+  height: auto;
+  border-radius:  4px;
+}
+
+.img{
+  overflow:auto;
+}
+
+.resource-links {
+  padding: 1em;
+  list-style: none;
+}
+
+.resource-links a {
+  color: #563852;
+  display: block;
+  padding: .5em;
+  font-weight: normal;
+  text-decoration: underline;
+}
+
+.resource-links a:hover,
+.resource-links a:focus {
+  font-weight:bold;
 }
 
 /* Styles for larger screens */
